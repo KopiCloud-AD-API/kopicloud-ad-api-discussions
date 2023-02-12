@@ -1,2 +1,1 @@
-# kopicloud-ad-api-discussions
-KopiCloud  AD API Discussions
+# Repo used by KopiCloud  AD API Discussions
